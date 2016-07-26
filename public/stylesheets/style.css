@@ -1,0 +1,18 @@
+html { font: normal normal 20px/1.2 serif; }
+* { margin: 0; padding: 0; }
+
+body {
+  color: #efefef;
+  background: #333;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 3rem auto 0;
+  text-align: center;
+}
+
+#songs {
+  width: 50vw;
+  margin: 0 auto;
+}
